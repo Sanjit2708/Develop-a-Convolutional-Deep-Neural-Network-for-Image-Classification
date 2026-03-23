@@ -6,7 +6,7 @@ To develop a convolutional deep neural network (CNN) for image classification an
 ##   PROBLEM STATEMENT AND DATASET
  Develop a convolutional deep neural network (CNN) for image classification and to verify the response for new images.
 ## Neural Network Model
-<img width="1024" height="751" alt="image" src="https://github.com/user-attachments/assets/93bdbae8-0b65-4055-b259-4f5163e8cdfb" />
+<img width="1600" height="575" alt="image" src="https://github.com/user-attachments/assets/115619ce-b23a-4370-8057-33e2b2494342" />
 
 ## DESIGN STEPS
 1.Load and Preprocess Data<br>
